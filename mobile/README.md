@@ -1,4 +1,4 @@
-# Automation_Mobile
+# Mobile Automation
 
 <h1 align="left">
     <img alt="Automação Mobile com Robot Framework" title="Robot" src="https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg" width="50%" />
