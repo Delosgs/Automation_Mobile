@@ -40,4 +40,4 @@ Get Fixture
     ...               ${EXECDIR}/resources/fixtures/${fixture_file}.json
     ...               encoding=UTF-8
 
-    [return]          ${fixture}
+    RETURN          ${fixture}

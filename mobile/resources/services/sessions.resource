@@ -13,5 +13,5 @@ Get Service Token
 
     ${token}       Set Variable        Bearer ${response.json()}[token]
 
-    [return]        ${token}
+    RETURN        ${token}
 

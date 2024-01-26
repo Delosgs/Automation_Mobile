@@ -20,7 +20,7 @@ Select Student Where Email
 
     ${result}       Query           ${query}
 
-    [return]        ${result}[0]
+    RETURN        ${result}[0]
 
 
 Delete Enroll By Email

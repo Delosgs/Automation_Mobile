@@ -1,11 +1,7 @@
-# Automation_Mobile
+# Mobile Automation
 
-Automação Mobile para Android
-
-
-
-<h1 align="center">
-    <img alt="NuClone" title="Robot" src=".github/splash.png" width="100%" />
+<h1 align="left">
+    <img alt="Automação Mobile com Robot Framework" title="Robot" src="https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg" width="50%" />
 </h1>
 
 ## 👨‍💻 Tecnologias
@@ -57,7 +53,7 @@ source ~/.bashrc
 
 ### No Windows
 
-[![Audi R8](.github/windows.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
+[![Clica aqui](.github/windows.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
 
 
 ## 📱Appium 
@@ -80,7 +76,7 @@ appium-doctor --android
 - Deve aprensentar um resultado similar ao da imagem abaixo:
 
 <h1 align="left">
-    <img alt="QAninja Academy" src=".github/doctor.png" width="100%" />
+    <img alt="QA Delano" src=".github/doctor.png" width="100%" />
 </h1>
 
 ## 📱Appium Desktop
@@ -99,6 +95,5 @@ Instale o Appium Desktop Latest release (não faça download do Pre-release)
 ---
 
 <h1 align="left">
-    <img alt="QAninja Academy" src=".github/logo-qaninja.png" width="150px" />
+    <img alt="QA Delano" src="https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg" width="300px" />
 </h1>
-
